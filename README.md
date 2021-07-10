@@ -9,7 +9,7 @@ You will use all HTML/CSS/Accessibility/Responsive design/Bootstrap/Javascript k
 You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have fully functional web pages that look the same as the designer file.
 
 Here the final result:
-![](https://github.com/Cristhian-Carbonell/holberton-smiling-school-javascript/blob/main/holberton-smiling-school-javascript/images/WhatsApp%20Image%202021-04-13%20at%205.45.26%20PM.jpg?raw=true)
+![](https://github.com/Cristhian-Carbonell/holberton-smiling-school-javascript/blob/main/images/3c71cc99d2fc1c12a3d3.jpg?raw=true)
 
 This webpage has been designed by Nicolas Philippot, UI/UX designer. You can find final screens [here](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/623/Archive.zip)
 
